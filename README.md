@@ -63,3 +63,6 @@ However, normally configuration can be done in-game by any super admin.
 3) Run the `hbc_selply` command with the bot's userid as the only argument. This should draw wireframes around the bot. These boxes are the hit boxes.
 4) Identify the hit box you'd like to change. Most of the time, you just need to guess and keep trying until you've got the right one. You can use the hbc_setgrp commands to change the hitboxes. If I'm trying to set a headshot hitbox, I typically start with `hbc_setgrp 0 0 3` and, if that isn't the right hit box, I'll revert it with `hbc_setgrp 0 0 0`. Then I will repeat the process, incrementing the second zero each time, until I've found the hit box I'm trying to modify.
 5) After you've got the hit boxes set to your liking, save your changes by typing `hbc_commit`. The changes will be applied immediately.
+
+### Acknowledgements
+I used a couple of lines of code from the (hitbox renderer)[https://steamcommunity.com/sharedfiles/filedetails/?id=219747243&searchtext=Hitbox+Renderer] addon on steam to draw the hitboxes on the model.
