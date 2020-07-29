@@ -65,4 +65,4 @@ However, normally configuration can be done in-game by any super admin.
 5) After you've got the hit boxes set to your liking, save your changes by typing `hbc_commit`. The changes will be applied immediately.
 
 ### Acknowledgements
-I used a couple of lines of code from the (hitbox renderer)[https://steamcommunity.com/sharedfiles/filedetails/?id=219747243&searchtext=Hitbox+Renderer] addon on steam to draw the hitboxes on the model.
+I used a couple of lines of code from the [hitbox renderer](https://steamcommunity.com/sharedfiles/filedetails/?id=219747243&searchtext=Hitbox+Renderer) addon on steam to draw the hitboxes on the model.
