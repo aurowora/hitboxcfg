@@ -10,7 +10,11 @@ Due to limitations in what GMOD allows you to do with Hitboxes, this addon is no
 1) Adding hitboxes that weren't there before.
 2) Removing hitboxes. This can result in some models being unfixable without recompiling if the modeler added a hitbox that encases the entire model which the game will think was hit before any headshot box. Such as:
 
+![image](https://raw.githubusercontent.com/Xytime/hitboxcfg/master/img/img1.png)
+
 An example of a model that should work fairly well with hitboxcfg is:
+
+![image](https://raw.githubusercontent.com/Xytime/hitboxcfg/master/img/img2.png)
 
 Though this model is probably too small for TTT.
 
