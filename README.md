@@ -2,7 +2,7 @@
 A simple tool to edit the hitgroups of models in TTT.
 
 ### Introduction
-Often times model makers don't properly setup the hitgroups of their models. For competitve gamemodes like TTT, this can be frusterating as such models are often times unable to be headshotted. The proper way to fix this would be to decompile the model using source SDK tools and adjust the QC file, however this is time consuming and can result in more complicated models breaking. Additionally, you will often need to rename and reupload (either to the WS or fastdl) the resulting model. This tool aims to reduce the amount of time needed to add working and fair custom player models to your TTT servers.
+Often times model makers don't properly setup the hitgroups of their models. For competitve gamemodes like TTT, this can be frusterating as such models are often times unable to be headshotted. The proper way to fix this would be to decompile the model using source SDK tools and adjust the QC file, however this is time consuming and can result in more complicated models breaking. Additionally, you will often need to rename and reupload (either to the WS or fastdl) the resulting model, which some modelers are annoyed by (which is, of course, totally justified). This tool aims to reduce the amount of time needed to add working and fair custom player models to your TTT servers.
 
 ### Limitations
 Due to limitations in what GMOD allows you to do with Hitboxes, this addon is not capable of
