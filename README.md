@@ -12,7 +12,7 @@ Due to limitations in what GMOD allows you to do with Hitboxes, this addon is no
 
 ![image](https://raw.githubusercontent.com/Xytime/hitboxcfg/master/img/img1.png)
 
-An example of a model that should work fairly well with hitboxcfg is:
+An example of a model that should work fairly well with hitboxcfg is (though do note that editing any hitbox encased entirely by the body box will not be effective):
 
 ![image](https://raw.githubusercontent.com/Xytime/hitboxcfg/master/img/img2.png)
 
