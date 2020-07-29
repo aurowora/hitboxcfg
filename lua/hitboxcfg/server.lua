@@ -108,7 +108,7 @@ local function scale_player_damage(ply, hitgroup, dmginfo)
             end
 
             --This will prevent the regular TTT damage scaling logic from being executed.
-            return
+            return false
         end
     end
  end
