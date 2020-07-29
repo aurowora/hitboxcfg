@@ -42,7 +42,7 @@ TTT doesn't actually do that many things with hit groups. TTT will apply a head 
 |Body|2|Green|No damage multiplier is applied|
 |Reduced|1|Blue|The player only takes 55% of the damage. By default, this is applied in TTT for things like gear and the arms|
 
-Any native hit groups will be mapped to the newest pseudo-hitgroup when drawn in-game.
+Any native hit groups will be mapped to the most alike pseudo-hitgroup when drawn in-game.
 
 ### Configuration
 
